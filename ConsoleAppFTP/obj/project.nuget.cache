@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ye1HXTRm08X6ORmLBjCzWjBhN5rA3THxLTb4MzNEgu2k5l9ZcXCiJzZT48UYYktjU6IAF4X3p7ZIHWB55rcMEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\irvan\\source\\repos\\ConsoleAppFTP\\FTPForSTEAM\\ConsoleAppFTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irvan\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\irvan\\.nuget\\packages\\ssh.net\\2020.0.2\\ssh.net.2020.0.2.nupkg.sha512",
+    "C:\\Users\\irvan\\.nuget\\packages\\sshnet.security.cryptography\\1.3.0\\sshnet.security.cryptography.1.3.0.nupkg.sha512",
+    "C:\\Users\\irvan\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
+    "C:\\Users\\irvan\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\irvan\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\irvan\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\irvan\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\irvan\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
